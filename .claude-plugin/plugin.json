@@ -1,0 +1,11 @@
+{
+  "name": "nuazing-skills",
+  "version": "0.1.0",
+  "description": "Eine kuratierte Sammlung von Claude Code Skills für den Arbeitsalltag — aktuell: Markdown zu druckfertigem PDF.",
+  "author": {
+    "name": "Adrian Nussbaum",
+    "url": "https://github.com/nuazing"
+  },
+  "homepage": "https://github.com/nuazing/claude-skills",
+  "license": "MIT"
+}
